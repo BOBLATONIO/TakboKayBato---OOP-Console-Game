@@ -4,6 +4,12 @@
 
 Takbo Kay Bato is a terminal-based Java board-race game. Two players race to the finish line by rolling a six-sided die.
 
+## Screenshots
+
+![Gameplay Screenshot 1](assets/image%281%29.png)
+
+![Gameplay Screenshot 2](assets/image%282%29.png)
+
 - Modes: Player vs Computer or Player vs Player
 - Board levels:
   - Easy Mode: 38 spaces
